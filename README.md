@@ -49,7 +49,6 @@
 ### ⚙️ Backend Development
 - Node.js
 - Express.js
-- Flask
 - REST API Development
 - Authentication Fundamentals
 
@@ -57,7 +56,6 @@
 - MongoDB
 - PostgreSQL
 - SQLite
-- Prisma ORM
 
 ### 🚀 DevOps & Deployment
 - Git and GitHub
@@ -89,7 +87,6 @@
 - Postman
 - npm
 - Vite
-- Prisma ORM
 
 ---
 
@@ -106,7 +103,7 @@ An AI-assisted interview preparation application designed to support interview p
 
 **Tech Stack:** React, Prisma ORM, SQLite/PostgreSQL
 
-🔗 [View Repository](https://github.com/santoshdi90/AI-INTERVIE-COACH)
+🔗 [View Repository](https://github.com/santoshdi90/AI-INTERVIEW-COACH)
 
 ### 2. Medimate
 
