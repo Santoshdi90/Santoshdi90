@@ -92,18 +92,33 @@
 
 ## 🚀 Featured Projects
 
-### 1. AI Interview Coach
 
-An AI-assisted interview preparation application designed to support interview practice and resume-related workflows.
+### 🤖 AI Interview Coach
 
-- Resume analysis workflow.
-- Interview question management.
-- Backend data handling using Prisma ORM.
-- Database integration and application deployment.
+An AI-powered interview preparation web application designed to help users prepare for interviews through resume analysis, interview practice, and feedback workflows.
 
-**Tech Stack:** React, Prisma ORM, SQLite/PostgreSQL
+🚀 **[Live Demo](https://ai-interview-coach-silk-six.vercel.app)** | 💻 **[Source Code](https://github.com/santoshdi90/AI-INTERVIE-COACH)**
 
-🔗 [View Repository](https://github.com/santoshdi90/AI-INTERVIEW-COACH)
+**Key Features**
+- Resume upload and analysis workflow.
+- Interview question management and practice.
+- User and interview data management.
+- AI-assisted interview preparation features, where implemented.
+- Deployed web application accessible through a live URL.
+
+**Tech Stack**
+- Frontend: React.js
+- ORM: Prisma
+- Database: SQLite / PostgreSQL, depending on environment
+- Deployment: Vercel,Render
+
+**What I Learned**
+- Deploying a web application.
+- Connecting frontend and backend components.
+- Working with database schemas and ORM tools.
+- Developing AI-oriented application workflows.
+
+
 
 ### 2. Medimate
 
