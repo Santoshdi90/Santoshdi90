@@ -1,20 +1,15 @@
+# Hi 👋, I'm Santosh Iramani
 
-<h1 align="center">Hi 👋, I'm Santosh Iramani</h1>
+### Computer Science Engineering Student | Aspiring Software Engineer
 
-<h3 align="center">
-  Computer Science Engineering Student | Aspiring Software Engineer
-</h3>
-
-<p align="center">
-  Building practical applications, solving problems, and exploring AI-powered technologies.
-</p>
+I enjoy building practical applications, solving programming problems, and exploring AI-powered technologies. I'm focused on strengthening my software engineering fundamentals while developing projects in full-stack development, machine learning, and AI evaluation.
 
 <p align="center">
   <a href="https://github.com/santoshdi90">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
   <a href="https://in.linkedin.com/in/santosh-iramani-3b0819293">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
   </a>
 </p>
 
@@ -22,136 +17,155 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering student graduating in 2027.
-- 💻 Interested in Software Engineering and Full-Stack Development.
+- 🎓 Final-year Computer Science Engineering student, graduating in 2027.
+- 💻 Interested in software engineering, backend development, and full-stack applications.
 - 🧠 Practicing Data Structures and Algorithms using Java.
-- 🌐 Building web applications with React.js, Node.js, and Express.js.
-- 🤖 Exploring AI/ML fundamentals and AI integration.
-- 🚀 Learning DevOps, deployment, Docker, and CI/CD fundamentals.
-- 🎯 Seeking software engineering opportunities and internships.
+- 🌐 Building web applications using React.js, Node.js, and Express.js.
+- 🤖 Exploring machine learning, NLP, and AI evaluation methodologies.
+- 🧪 Interested in testing AI outputs for relevance, reliability, and safety.
+- 🚀 Learning deployment, Docker, CI/CD, and software development best practices.
+- 🎯 Open to suitable software engineering, internship, and AI evaluation opportunities.
 
 ---
 
 ## 🧰 Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 - Java
 - JavaScript
 - Python
 - SQL
 
-### 🌐 Frontend Development
+### Frontend Development
 - HTML5, CSS3
 - React.js
-- Responsive Web Design
-- REST API Integration
+- Vite
+- Responsive web design
+- REST API integration
 
-### ⚙️ Backend Development
+### Backend Development
 - Node.js
 - Express.js
-- REST API Development
-- Authentication Fundamentals
+- Flask
+- REST API development
+- Authentication fundamentals
 
-### 🗄️ Databases
+### Databases
 - MongoDB
 - PostgreSQL
 - SQLite
 
-### 🚀 DevOps & Deployment
-- Git and GitHub
-- Version Control and Branching
-- Docker Fundamentals
-- CI/CD Fundamentals
-- Environment Variables and Configuration
-- Deployment using Vercel and Render
-
-### 🤖 AI & Machine Learning
-- AI/ML Fundamentals
+### AI, Machine Learning & Evaluation
 - Natural Language Processing (NLP)
-- Text Preprocessing
-- TF-IDF Feature Extraction
-- Logistic Regression and Classification
-- Model Evaluation Fundamentals
-- Network Analysis using NetworkX
+- Text preprocessing and TF-IDF
+- Logistic Regression and text classification
+- Model evaluation fundamentals
+- Retrieval evaluation and text-based metrics
+- Prompt-injection testing fundamentals
+- Python data analysis
 
-### 🔗 AI Integration
-- Integrating AI models and APIs into applications
-- Connecting frontend applications to backend AI services
-- REST APIs and JSON Data Handling
-- Prompt Engineering Fundamentals
-- LLM API Integration Fundamentals
-- Building AI-Powered Application Features
-
-### 🛠️ Developer Tools
+### Tools & Deployment
+- Git and GitHub
 - Visual Studio Code
 - Postman
 - npm
-- Vite
+- Prisma ORM
+- Vercel and Render
+- Docker and CI/CD fundamentals
 
 ---
 
 ## 🚀 Featured Projects
 
-
 ### 🤖 AI Interview Coach
 
-An AI-powered interview preparation web application designed to help users prepare for interviews through resume analysis, interview practice, and feedback workflows.
+An interview preparation web application designed to help users practice interviews and work through resume analysis and feedback workflows.
 
-🚀 **[Live Demo](https://ai-interview-coach-silk-six.vercel.app)** | 💻 **[Source Code](https://github.com/santoshdi90/AI-INTERVIE-COACH)**
-
-**Key Features**
 - Resume upload and analysis workflow.
-- Interview question management and practice.
-- User and interview data management.
-- AI-assisted interview preparation features, where implemented.
-- Deployed web application accessible through a live URL.
+- Interview practice and question management.
+- Application data management using Prisma.
+- Deployed frontend.
 
-**Tech Stack**
-- Frontend: React.js
-- ORM: Prisma
-- Database: SQLite / PostgreSQL, depending on environment
-- Deployment: Vercel,Render
+**Tech Stack:** React.js, Prisma, SQLite/PostgreSQL configuration, Vercel, Render
 
-**What I Learned**
-- Deploying a web application.
-- Connecting frontend and backend components.
-- Working with database schemas and ORM tools.
-- Developing AI-oriented application workflows.
+🔗 [Live Demo](https://ai-interview-coach-silk-six.vercel.app) · [Source Code](https://github.com/santoshdi90/AI-INTERVIE-COACH)
 
+### 🏥 Medimate
 
+A healthcare-focused application project intended to support healthcare-related workflows.
 
-### 2. Medimate
+**Tech Stack:** Refer to the repository for the current implementation and technology details.
 
-A healthcare-focused application project.
+🔗 [Source Code](https://github.com/santoshdi90/MEDIMATE)
 
-**Project Goal:** Build an application that supports useful healthcare-related workflows.
+### 🛡️ Online Hate Speech Network Analyzer
 
-🔗 [View Repository](https://github.com/santoshdi90/MEDIMATE)
-
-### 3. Online Hate Speech Network Analyzer
-
-An application combining NLP-based text classification with social network analysis to study harmful content and user interaction patterns.
+A machine learning project combining text classification and network analysis to study harmful language and user interaction patterns.
 
 - Text preprocessing and TF-IDF feature extraction.
-- Multiclass classification using Logistic Regression.
-- Classification of normal, offensive, and hate speech.
+- Multiclass text classification using Logistic Regression.
+- Classification into normal, offensive, and hate speech categories.
 - User interaction graph analysis using NetworkX.
-- Analysis of influential users and potentially harmful interaction patterns.
+- Exploration of influential users and harmful interaction patterns.
 
 **Tech Stack:** Python, Flask, Machine Learning, NLP, NetworkX
 
-🔗 [View Repository](https://github.com/santoshdi90/online-hate-speech-network-analyzer)
+🔗 [Source Code](https://github.com/santoshdi90/online-hate-speech-network-analyzer)
+
+### 📚 RAG Chatbot Evaluation Framework
+
+A lightweight evaluation project that uses a sample question-answer dataset to examine document retrieval, lexical answer support, and citation validity.
+
+- TF-IDF-based document retrieval.
+- Retrieval hit-rate evaluation.
+- Lexical answer-support proxy.
+- Citation ID validation.
+- Streamlit dashboard for reviewing per-question results.
+
+**Tech Stack:** Python, scikit-learn, Pandas, Streamlit
+
+🔗 [Source Code](https://github.com/santoshdi90/rag-chatbot-evaluation-framework)
+
+### ⚖️ LLM-as-Judge Calibration Study
+
+A small evaluation-methodology project demonstrating how to compare predicted labels with reference labels using classification accuracy and Cohen's kappa.
+
+- Rule-based baseline judge.
+- Agreement metric calculation.
+- Per-example comparison and disagreement reporting.
+- Reproducible sample evaluation script.
+
+**Tech Stack:** Python, scikit-learn, CSV, JSON
+
+**Note:** The current version uses illustrative labels and a keyword-based heuristic, not a live LLM judge or independently validated human evaluation.
+
+🔗 [Source Code](https://github.com/santoshdi90/llm-judge-calibration-study)
+
+### 🔐 Safety & Red-Teaming Test Suite
+
+A local test suite demonstrating basic pattern-based detection of potentially risky prompt-injection and jailbreak-related text.
+
+- Categorized prompt-injection and safety test cases.
+- Pattern-based text scanning.
+- Risk flagging and test report generation.
+- Automated tests for known examples and benign inputs.
+
+**Tech Stack:** Python, Regular Expressions, JSON, pytest
+
+**Note:** This starter evaluates static test cases and does not measure real-world model jailbreak success rates.
+
+🔗 [Source Code](https://github.com/santoshdi90/safety-red-teaming-test-suite)
 
 ---
 
 ## 📚 Currently Learning
 
 - Data Structures and Algorithms using Java.
-- Advanced React.js and full-stack development.
+- Full-stack development with React and Node.js.
 - Backend API design and database management.
-- AI/ML fundamentals and AI application integration.
-- Docker, CI/CD, and DevOps fundamentals.
-- Writing clean, maintainable, and testable code.
+- Machine learning and AI evaluation fundamentals.
+- Testing, debugging, and writing maintainable code.
+- Docker, CI/CD, and deployment workflows.
 
 ---
 
